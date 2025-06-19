@@ -7,8 +7,11 @@ This repository contains weekly simulation codes and assignments for **CHE643**,
 | Folder   | Description                                   
 
 | WEEK-1   | Introduction to random walks and Brownian motion |
+
 | WEEK-2   | Diffusion modeling and mean squared displacement |
+
 | WEEK-3   | Modelling polymers as Spring-connected particles |
+
 | Midsem   | Simulation project for midterm evaluation        |
 
 ## ⚙️ Tech Stack
