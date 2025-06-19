@@ -3,8 +3,7 @@ This repository contains weekly simulation codes and assignments for **CHE643**,
 
 
 ##  Contents
-
-| Folder   | Description                                   
+                                
 
 | WEEK-1   | Introduction to random walks and Brownian motion |
 
